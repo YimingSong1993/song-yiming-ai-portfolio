@@ -1,5 +1,6 @@
 .worktrees
 .worktrees/
 .DS_Store
+public/
 personal-site/.DS_Store
 personal-site/demo 的示例图片/
