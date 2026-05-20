@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="AI model workflow preview">
+  <rect width="1280" height="800" fill="#07111f"/>
+  <circle cx="1030" cy="120" r="260" fill="#193bff" opacity=".28"/>
+  <circle cx="260" cy="660" r="280" fill="#12f7d6" opacity=".16"/>
+  <rect x="96" y="92" width="1088" height="616" rx="36" fill="#0d1728" stroke="#263952" stroke-width="3"/>
+  <text x="150" y="170" fill="#f7fbff" font-family="Arial, sans-serif" font-size="54" font-weight="700">AI Model Pipeline</text>
+  <g fill="#101f35" stroke="#314861" stroke-width="2">
+    <rect x="150" y="250" width="210" height="120" rx="24"/>
+    <rect x="410" y="250" width="210" height="120" rx="24"/>
+    <rect x="670" y="250" width="210" height="120" rx="24"/>
+    <rect x="930" y="250" width="210" height="120" rx="24"/>
+  </g>
+  <g fill="#12f7d6" font-family="Arial, sans-serif" font-size="28" font-weight="700">
+    <text x="190" y="322">Data</text>
+    <text x="450" y="322">LLM</text>
+    <text x="700" y="322">Wet Lab</text>
+    <text x="960" y="322">Launch</text>
+  </g>
+  <path d="M360 310h50M620 310h50M880 310h50" stroke="#9d7cff" stroke-width="8" stroke-linecap="round"/>
+  <polyline points="170,585 320,520 470,550 620,430 770,465 920,350 1090,390" fill="none" stroke="#12f7d6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

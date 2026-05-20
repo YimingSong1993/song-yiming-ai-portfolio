@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="Timeline interface preview">
+  <rect width="1280" height="800" fill="#eff4ef"/>
+  <rect x="88" y="90" width="1104" height="620" rx="28" fill="#ffffff" stroke="#d7ddd6" stroke-width="4"/>
+  <text x="130" y="165" fill="#16342d" font-family="Arial, sans-serif" font-size="54" font-weight="700">Timeline</text>
+  <line x1="150" y1="410" x2="1110" y2="410" stroke="#1f7a68" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="250" cy="410" r="34" fill="#c28d2e"/>
+  <circle cx="520" cy="410" r="34" fill="#3568a6"/>
+  <circle cx="790" cy="410" r="34" fill="#1f7a68"/>
+  <circle cx="1040" cy="410" r="34" fill="#16211d"/>
+  <rect x="185" y="480" width="190" height="70" rx="14" fill="#e5eee9"/>
+  <rect x="455" y="280" width="190" height="70" rx="14" fill="#e7eef8"/>
+  <rect x="725" y="480" width="190" height="70" rx="14" fill="#e5eee9"/>
+  <rect x="980" y="280" width="150" height="70" rx="14" fill="#f2e7d0"/>
+</svg>
