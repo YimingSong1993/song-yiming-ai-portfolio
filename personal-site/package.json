@@ -1,0 +1,9 @@
+{
+  "name": "personal-portfolio-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test src/*.test.mjs",
+    "serve": "python3 -m http.server 4173"
+  }
+}

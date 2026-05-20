@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="Data platform preview">
+  <rect width="1280" height="800" fill="#070b18"/>
+  <rect x="98" y="84" width="1084" height="632" rx="34" fill="#0f1729" stroke="#29384f" stroke-width="3"/>
+  <text x="150" y="158" fill="#f7fbff" font-family="Arial, sans-serif" font-size="50" font-weight="700">Process Selector</text>
+  <rect x="150" y="220" width="270" height="130" rx="22" fill="#14243d"/>
+  <rect x="460" y="220" width="270" height="130" rx="22" fill="#14243d"/>
+  <rect x="770" y="220" width="270" height="130" rx="22" fill="#14243d"/>
+  <polyline points="160,600 260,520 360,550 460,450 560,490 660,360 760,420 860,300 960,350 1060,250" fill="none" stroke="#12f7d6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#9d7cff">
+    <circle cx="460" cy="450" r="13"/>
+    <circle cx="660" cy="360" r="13"/>
+    <circle cx="860" cy="300" r="13"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="Data dashboard preview">
+  <rect width="1280" height="800" fill="#f0f5f6"/>
+  <rect x="98" y="84" width="1084" height="632" rx="30" fill="#ffffff" stroke="#d4dde2" stroke-width="4"/>
+  <text x="150" y="158" fill="#16211d" font-family="Arial, sans-serif" font-size="50" font-weight="700">Analysis Report</text>
+  <rect x="150" y="220" width="270" height="130" rx="18" fill="#e5eee9"/>
+  <rect x="460" y="220" width="270" height="130" rx="18" fill="#e7eef8"/>
+  <rect x="770" y="220" width="270" height="130" rx="18" fill="#fff5df"/>
+  <polyline points="160,600 260,520 360,550 460,450 560,490 660,360 760,420 860,300 960,350 1060,250" fill="none" stroke="#1f7a68" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="150" y="410" width="900" height="2" fill="#d4dde2"/>
+  <rect x="150" y="510" width="900" height="2" fill="#d4dde2"/>
+  <rect x="150" y="610" width="900" height="2" fill="#d4dde2"/>
+</svg>
