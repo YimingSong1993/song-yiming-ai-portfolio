@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="IND delivery preview">
+  <rect width="1280" height="800" fill="#080d1b"/>
+  <rect x="110" y="88" width="1060" height="624" rx="34" fill="#111a2e" stroke="#29384f" stroke-width="3"/>
+  <text x="160" y="165" fill="#f7fbff" font-family="Arial, sans-serif" font-size="52" font-weight="700">IND Delivery</text>
+  <rect x="165" y="235" width="950" height="92" rx="22" fill="#14243d"/>
+  <rect x="165" y="360" width="950" height="92" rx="22" fill="#14243d"/>
+  <rect x="165" y="485" width="720" height="92" rx="22" fill="#14243d"/>
+  <g fill="#12f7d6" font-family="Arial, sans-serif" font-size="32" font-weight="700">
+    <text x="205" y="294">6+ IND</text>
+    <text x="205" y="419">Function Leader</text>
+    <text x="205" y="544">B-end Communication</text>
+  </g>
+  <g fill="#4aa8ff">
+    <circle cx="1030" cy="281" r="24"/>
+    <circle cx="1030" cy="406" r="24"/>
+    <circle cx="800" cy="531" r="24"/>
+  </g>
+</svg>
